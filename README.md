@@ -32,6 +32,12 @@ Feature engineering, data preprocessing, and model tuning were conducted to opti
 For more detailed analysis, code, and results, you can check out the [Jupyter Notebook](customer-churn-classification.ipynb) or view the [presentation](customer-churn-presentation.pdf) summarizing the key findings and recommendations.
 
 ## Repository Structure
+├── .ipynb_checkpoints/
+├── data/ │ └── (Data files used in the project) 
+├── README.md 
+├── customer-churn-classification.ipynb 
+├── customer-churn-presentation.pdf 
+└── .DS_Store
 
 ## Repository Navigation
 ### Key Files and Directories
